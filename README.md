@@ -54,17 +54,29 @@ class SreeragAS:
 
 ## 📊 LIVE AI METRICS
 
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sreerag160&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:1e1b4b,50:312e81,100:6d28d9&text=AI%20SYSTEM%20ANALYTICS&fontColor=ffffff&fontSize=28"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sreerag160&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://img.shields.io/badge/Total%20Projects-7-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Core%20Domain-Artificial%20Intelligence-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Primary%20Language-Python-F59E0B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-Jenkins-DC2626?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=radical&hide_border=true" />
+
+<img src="https://img.shields.io/badge/GenAI-RAG%20Systems-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Biometric%20Interfaces-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Hybrid%20Chatbots-F43F5E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desktop%20Dev-Visual%20Basic%20.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
 </p>
+
 
 
 

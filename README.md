@@ -93,7 +93,7 @@ class SreeragAS:
 ## 🐍 NEURAL NETWORK FLOW
 
 <p align="center">
-  <img src="https://github.com/sreerag160/sreerag160/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

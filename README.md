@@ -1,70 +1,83 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================== AI CORE HEADER ======================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0B0F19,50:111827,100:1F2937&text=SREERAG%20AS&fontSize=55&fontColor=ffffff&letterSpacing=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=SREERAG%20AS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  Artificial Intelligence · Machine Learning · Deep Learning
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Neural+Networks;Computer+Vision;Intelligent+Systems;Data+Driven+Architecture;Python+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Retrieval-Augmented+Generation;Neural+Networks;Computer+Vision;Generative+AI+Systems" />
 </p>
 
 ---
 
-##  ⬢  System Identity
+## ⚡ AI SYSTEM INITIALIZED
 
 ```python
 class SreeragAS:
 
     def __init__(self):
-        self.field = "Artificial Intelligence"
-        self.core = [
-            "Machine Learning",
-            "Deep Learning",
-            "Neural Architectures",
-            "Computer Vision"
+        self.specialization = "Artificial Intelligence"
+        self.builds = [
+            "RAG Systems",
+            "NLP Chatbots",
+            "Computer Vision Interfaces",
+            "Biometric AI Applications"
         ]
-        self.stack = ["Python", "TensorFlow", "PyTorch"]
-        self.mission = "Engineer systems that learn, adapt, and evolve."
+        self.core_stack = ["Python", "TensorFlow", "PyTorch", "LangChain"]
+        self.status = "Building Intelligent Systems"
 
-    def philosophy(self):
-        return "Precision over noise."
+    def mission(self):
+        return "Engineer systems that think beyond code."
 ```
 
 ---
 
-##  ⬢  Technology Matrix
+## 🧠 FEATURED AI PROJECTS
+
+### 🚀 NOVA-RAG  
+Production-ready GenAI RAG chatbot using OpenAI embeddings, LangChain, LlamaIndex, FastAPI & Streamlit.
+
+### 🤖 Hybrid NLP Chatbot  
+Hybrid offline + online NLP chatbot with rule-based and intent recognition system.
+
+### 🖱 Biometric AI Virtual Mouse  
+Face geometry authentication + hand gesture recognition for touchless interaction.
+
+---
+
+## ⚙️ TECHNOLOGY MATRIX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,streamlit" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,django,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,django,mysql,git,github,docker" />
 </p>
 
 ---
 
-##  ⬢  Activity Signature
+## 📊 SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreerag160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=22D3EE" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerag160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=22D3EE" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreerag160&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerag160&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-##  ⬢  Contribution Signal
+## 🔥 EXECUTION HISTORY
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=tokyonight&hide_border=true&background=0B0F19&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  ⟡  Build. Learn. Refine. Repeat.  ⟡
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+</p>
+
+<p align="center">
+  ⟁  Intelligence is engineered.  ⟁
 </p>

@@ -54,10 +54,16 @@ class SreeragAS:
 
 ## 📊 LIVE AI METRICS
 
+## 📊 LIVE AI METRICS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreerag160&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=8B5CF6&icon_color=22D3EE" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerag160&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=22D3EE" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreerag160&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerag160&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 
 ---
 

@@ -367,6 +367,10 @@ MODE         : BUILDING
 
 ---
 
+
+Your correct ending should be **exactly this**:
+
+```html
 <div align="center">
 
 ### `ARTIFICIAL INTELLIGENCE IS ENGINEERED, NOT IMAGINED.`
@@ -376,4 +380,3 @@ MODE         : BUILDING
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&fontColor=ffffff&animation=fadeIn&color=0D1117" width="100%"/>
 
 </div>
-```

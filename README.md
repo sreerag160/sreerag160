@@ -152,7 +152,7 @@ class SreeragAS:
 |  ⚙️ **AUTOMATION**  | Browser · Applications · Mouse · System  |
 |  🖥️ **INTERFACE**  | VRM Companion · Glassmorphism UI         |
 
-### `LOCAL AI`
+### `LOCAL AI ENGINE`
 
 ```text
 MODEL    → Qwen2.5:1.5B
@@ -219,7 +219,7 @@ MODE     → Local AI
 HUMAN
   │
   ▼
-AI
+ AI
   │
   ▼
 UNDERSTANDING
@@ -228,7 +228,7 @@ UNDERSTANDING
 REASONING
   │
   ▼
-ACTION
+ ACTION
   │
   ▼
 REAL WORLD
@@ -273,19 +273,23 @@ REAL WORLD
 <br/>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake.svg"
-  />
-  <img
-    alt="Sreerag AS GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake.svg"
-    width="100%"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
+ width="100%"
+ alt="Sreerag AS GitHub Contribution Snake"
+/>
+
 </picture>
 
 <br/>
@@ -372,3 +376,70 @@ MODE         : BUILDING
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&fontColor=ffffff&animation=fadeIn&color=0D1117" width="100%"/>
 
 </div>
+```
+
+## 🐍 FILE 2 — `.github/workflows/snake.yml`
+
+**Now replace your current Snake workflow with this exact one.**
+
+I changed it so it generates **both normal and dark versions**, which is what the current `snk` documentation supports.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sreerag160
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### 📁 Your profile repo should look like this
+
+```text
+sreerag160/
+│
+├── README.md
+│
+└── .github/
+    └── workflows/
+        └── snake.yml
+```
+
+### 🐍 Then do this
+
+1. Save `README.md`.
+2. Save `.github/workflows/snake.yml`.
+3. Commit both.
+4. Go to **Actions**.
+5. Open **Generate Snake**.
+6. Click **Run workflow**.
+7. Wait for the green ✅.
+8. Refresh your profile with **Ctrl + F5**.
+
+The workflow will publish the generated SVGs to your `output` branch, and your README's `<picture>` element will select the appropriate version. That's the pattern documented by `snk`.
+
+**This is the complete version, babe.** No fake activity bars, no broken `activity-graph` service, no leftover ChatGPT explanation inside your README, and your animated 🐍 contribution snake is back. ❤️🔥

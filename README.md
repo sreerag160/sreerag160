@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SREERAG%20AS&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20GENERATIVE%20AI%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=61&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SREERAG%20AS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20GENERATIVE%20AI%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=61&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=ARTIFICIAL+INTELLIGENCE+ENGINEER;GENERATIVE+AI+%7C+RAG+%7C+LLM+SYSTEMS;COMPUTER+VISION+%7C+BIOMETRICS;VOICE+%26+HUMAN-COMPUTER+INTERACTION;AUTOMATION+%7C+DEVOPS+%7C+CI%2FCD;BUILDING+SYSTEMS+THAT+THINK+%26+ACT"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=ARTIFICIAL+INTELLIGENCE+ENGINEER;GENERATIVE+AI+%7C+RAG+%7C+LLM+SYSTEMS;COMPUTER+VISION+%7C+BIOMETRICS;VOICE+%26+HUMAN-COMPUTER+INTERACTION;AUTOMATION+%7C+DEVOPS+%7C+CI%2FCD;BUILDING+SYSTEMS+THAT+THINK+%26+ACT"/>
 
 <br/><br/>
 
@@ -16,11 +16,11 @@
 
 ---
 
-## `01 // SYSTEM PROFILE`
+# `01 // SYSTEM PROFILE`
 
 <div align="center">
 
-### SREERAG AS
+### `SREERAG AS`
 
 **Artificial Intelligence Engineer · Generative AI · Intelligent Systems**
 
@@ -30,15 +30,15 @@
 
 </div>
 
-I build intelligent systems that move beyond **prompt → response** and into **reasoning → interaction → action**.
+I build AI systems that move beyond **prompt → response** and into **reasoning → interaction → action**.
 
-My interests are centered around:
+My work sits at the intersection of:
 
 **Artificial Intelligence × Human Interaction × Automation × Software Engineering**
 
 ---
 
-## `02 // AI CORE`
+# `02 // AI CORE`
 
 ```python
 class SreeragAS:
@@ -64,29 +64,29 @@ class SreeragAS:
 
 ---
 
-## `03 // TECHNOLOGY MATRIX`
+# `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### LANGUAGES
+### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash"/>
 
 <br/><br/>
 
-### AI / MACHINE LEARNING
+### `AI / MACHINE LEARNING`
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
 <br/><br/>
 
-### ENGINEERING
+### `TOOLS / ENGINEERING`
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 
 <br/><br/>
 
-### GENERATIVE AI
+### `GENERATIVE AI`
 
 <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=white"/>
@@ -97,60 +97,62 @@ class SreeragAS:
 
 ---
 
-## `04 // CURRENTLY BUILDING`
+# `04 // FLAGSHIP SYSTEM`
 
 <div align="center">
 
-# ⚡ NOVAOS
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=NOVAOS&fontSize=42&fontColor=ffffff&color=0D1117&stroke=58A6FF&strokeWidth=2"/>
 
-### HANDS-FREE AI DESKTOP SYSTEM
+### `HANDS-FREE AI DESKTOP SYSTEM`
 
 `VOICE` · `VISION` · `INTELLIGENCE` · `AUTOMATION`
 
 </div>
 
-**NovaOS** is a JARVIS-inspired AI desktop system designed to let users interact with their computer through natural voice commands, computer vision, biometrics and automation.
+**NovaOS** is a JARVIS-inspired AI desktop system designed to interact directly with the computer through natural voice commands, computer vision, biometrics and automation.
+
+### `SYSTEM ARCHITECTURE`
 
 ```text
-                    ┌─────────────────────┐
-                    │       HUMAN         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       NOVA AI       │
-                    │    Qwen2.5:1.5B     │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-        ┌──────────┐      ┌──────────┐      ┌──────────┐
-        │  VOICE   │      │  VISION  │      │  INTENT  │
-        └────┬─────┘      └────┬─────┘      └────┬─────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │    ACTION ENGINE    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      COMPUTER       │
-                    └─────────────────────┘
+                         ┌─────────────────┐
+                         │      HUMAN      │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │        NOVA AI          │
+                    │      Qwen2.5:1.5B       │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+        ┌──────────┐       ┌──────────┐       ┌──────────┐
+        │  VOICE   │       │  VISION  │       │  INTENT  │
+        └────┬─────┘       └────┬─────┘       └────┬─────┘
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                    ┌─────────────────────────┐
+                    │      ACTION ENGINE      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │        COMPUTER         │
+                    └─────────────────────────┘
 ```
 
-### `SYSTEM CAPABILITIES`
+### `CAPABILITIES`
 
-|       SYSTEM      | CAPABILITIES                             |
-| :---------------: | ---------------------------------------- |
-|   🎙️ **VOICE**   | Wake word · STT · TTS · Voice Commands   |
-|   👁️ **VISION**  | Face Recognition · Biometrics · Gestures |
-|     🧠 **AI**     | Local LLM · Intent Routing · Reasoning   |
-| ⚙️ **AUTOMATION** | Browser · Apps · Mouse · System Controls |
-|     🖥️ **UI**    | VRM Companion · Glassmorphism Interface  |
+|        SYSTEM       | CAPABILITIES                             |
+| :-----------------: | ---------------------------------------- |
+|    🎙️ **VOICE**    | Wake Word · STT · TTS · Voice Commands   |
+|    👁️ **VISION**   | Face Recognition · Biometrics · Gestures |
+| 🧠 **INTELLIGENCE** | Local LLM · Intent Routing · Reasoning   |
+|  ⚙️ **AUTOMATION**  | Browser · Applications · Mouse · System  |
+|  🖥️ **INTERFACE**  | VRM Companion · Glassmorphism UI         |
 
-### `LOCAL AI ENGINE`
+### `LOCAL AI`
 
 ```text
 MODEL    → Qwen2.5:1.5B
@@ -170,7 +172,7 @@ MODE     → Local AI
 
 ---
 
-## `05 // AI SYSTEMS`
+# `05 // AI SYSTEMS`
 
 <div align="center">
 
@@ -193,116 +195,108 @@ MODE     → Local AI
 
 ---
 
-## `06 // ENGINEERING PHILOSOPHY`
+# `06 // ENGINEERING PHILOSOPHY`
 
 <div align="center">
 
 ```text
-AI SHOULD NOT JUST ANSWER.
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│              AI SHOULD NOT JUST ANSWER.                      │
+│                                                              │
+│              AI SHOULD UNDERSTAND.                           │
+│              AI SHOULD SEE.                                  │
+│              AI SHOULD HEAR.                                 │
+│              AI SHOULD REASON.                               │
+│              AI SHOULD ACT.                                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-AI SHOULD UNDERSTAND.
-AI SHOULD SEE.
-AI SHOULD HEAR.
-AI SHOULD REASON.
-AI SHOULD ACT.
+### `PROMPT → RESPONSE` IS ONLY THE BEGINNING.
 
-              HUMAN
-                │
-                ▼
-               AI
-                │
-                ▼
-           REASONING
-                │
-                ▼
-             ACTION
-                │
-                ▼
-           REAL WORLD
+```text
+HUMAN
+  │
+  ▼
+AI
+  │
+  ▼
+UNDERSTANDING
+  │
+  ▼
+REASONING
+  │
+  ▼
+ACTION
+  │
+  ▼
+REAL WORLD
 ```
 
 </div>
 
 ---
 
-## `07 // GITHUB TELEMETRY`
+# `07 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=tokyonight&hide_border=true" width="72%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE-sreerag160-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRIMARY%20PROJECT-NOVAOS-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-00D26A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-sreerag160-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-ACTIVE-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NOVAOS-BUILT-A855F7?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION FIELD`
+# `08 // CONTRIBUTION FIELD`
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                 CONTRIBUTION FIELD                         ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║   BUILD → EXPERIMENT → LEARN → ENGINEER → REPEAT           ║
-║                                                            ║
-║   AI Systems                                               ║
-║   ├── Generative AI                                       ║
-║   ├── Computer Vision                                     ║
-║   ├── Voice Interfaces                                     ║
-║   ├── Automation                                           ║
-║   └── Intelligent Desktop Systems                          ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreerag160&theme=tokyonight" width="96%"/>
 
 </div>
 
 ---
 
-## `09 // ACTIVITY MATRIX`
+# `09 // ACTIVITY MATRIX`
 
 <div align="center">
 
-### `SYSTEM ACTIVITY`
+### `CONTRIBUTION SIGNAL`
 
 <br/>
 
-`BUILD` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `ACTIVE`
-
-`AI` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `ACTIVE`
-
-`VISION` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `ACTIVE`
-
-`AUTOMATION` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `ACTIVE`
-
-`NOVAOS` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `ONLINE`
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake.svg"
+  />
+  <img
+    alt="Sreerag AS GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 <br/>
 
-```text
-        CONTRIBUTION SIGNAL
-
-        ░ ░ ▒ ▓ ▓ ▒ ░ ░ ▓ ▓ ▓ ▒ ░
-        ░ ▒ ▓ ▓ ▒ ░ ░ ▓ ▓ ▒ ▒ ▓ ░
-        ▒ ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▓ ▒ ░ ░
-        ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▒ ░ ░ ▓ ▓
-        ▒ ▒ ░ ░ ▓ ▓ ▓ ▒ ░ ▒ ▓ ▓ ▒
-
-                 ACTIVITY MATRIX
-```
+`BUILD` · `COMMIT` · `SHIP` · `REPEAT`
 
 </div>
 
 ---
 
-## `10 // SYSTEM STATUS`
+# `10 // SYSTEM METRICS`
 
 <div align="center">
 
@@ -314,32 +308,42 @@ AI SHOULD ACT.
 <br/><br/>
 
 ```text
-STATUS      : ONLINE
-IDENTITY    : SREERAG AS
-SYSTEM      : ARTIFICIAL INTELLIGENCE
-PROJECT     : NOVAOS
-MODE        : BUILDING
+┌─────────────────────────────────────────────┐
+│                                             │
+│  STATUS       : ONLINE                     │
+│  IDENTITY     : SREERAG AS                 │
+│  DOMAIN       : ARTIFICIAL INTELLIGENCE    │
+│  FLAGSHIP     : NOVAOS                     │
+│  MODE         : BUILDING                   │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `11 // CONNECT`
+# `11 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/sreerag160">
+
 <img src="https://img.shields.io/badge/GITHUB-SREERAG160-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
+
+# `12 // VISITOR SIGNAL`
 
 <div align="center">
 
@@ -347,27 +351,24 @@ MODE        : BUILDING
 
 <br/><br/>
 
-### `BUILDING SYSTEMS THAT THINK & ACT.`
+```text
+STATUS       : ONLINE
+IDENTITY     : SREERAG AS
+SYSTEM       : ARTIFICIAL INTELLIGENCE
+FLAGSHIP     : NOVAOS
+MODE         : BUILDING
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### `ARTIFICIAL INTELLIGENCE IS ENGINEERED, NOT IMAGINED.`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=ffffff&animation=fadeIn&color=0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&fontColor=ffffff&animation=fadeIn&color=0D1117" width="100%"/>
 
 </div>
-```
-
-### ❤️ What I changed
-
-* **Removed the two broken stats images** from `07`.
-* Kept your **working streak card**.
-* **Removed the broken Activity Graph image** from `09`.
-* Replaced it with a cinematic **Activity Matrix** that cannot turn into a broken-image icon.
-* Kept **NovaOS as your flagship project**, not the whole identity of your profile.
-* Kept your AI/ML/GenAI positioning.
-* Kept the animated header, typing animation, skill icons, badges and footer.
-* No fake project counts or fake achievements.
-* **No outer code fence** around the README.
-
-This is much safer because the public GitHub Stats service can be rate-limited, while the Activity Graph documentation explicitly recommends deploying your own instance if you want a more reliable graph.
-
-If you eventually want the **actual live contribution graph back**, we can self-host it instead of depending on the public service.

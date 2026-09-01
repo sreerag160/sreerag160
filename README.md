@@ -20,21 +20,17 @@
 
 <div align="center">
 
-### `SREERAG AS`
+## `SREERAG AS`
 
-**Artificial Intelligence Engineer · Generative AI · Intelligent Systems**
+### Artificial Intelligence Engineer
 
-<br/>
-
-`AI` · `LLMs` · `RAG` · `Computer Vision` · `Voice AI` · `Automation`
+`GENERATIVE AI` · `LLMs` · `RAG` · `COMPUTER VISION` · `VOICE AI` · `AUTOMATION`
 
 </div>
 
-I build AI systems that move beyond **prompt → response** and into **reasoning → interaction → action**.
+I build intelligent systems that move beyond **prompt → response** and into **reasoning → interaction → action**.
 
-My work sits at the intersection of:
-
-**Artificial Intelligence × Human Interaction × Automation × Software Engineering**
+My focus is on building AI systems that can understand humans, interact with computers and automate real-world tasks.
 
 ---
 
@@ -55,12 +51,18 @@ class SreeragAS:
         "Human-Computer Interaction"
     ]
 
-    currently_building = "NovaOS"
+    flagship = "NovaOS"
+
+    local_model = "Qwen2.5:1.5B"
 
     philosophy = "Build systems that think, see, hear and act."
 ```
 
-> **Turn AI from a chatbot into an intelligent computer interface.**
+<div align="center">
+
+> **TURN AI FROM A CHATBOT INTO AN INTELLIGENT COMPUTER INTERFACE.**
+
+</div>
 
 ---
 
@@ -80,7 +82,7 @@ class SreeragAS:
 
 <br/><br/>
 
-### `TOOLS / ENGINEERING`
+### `ENGINEERING`
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 
@@ -89,9 +91,9 @@ class SreeragAS:
 ### `GENERATIVE AI`
 
 <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qwen2.5--1.5B-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen2.5--1.5B-0D1117?style=for-the-badge"/>
 
 </div>
 
@@ -101,7 +103,7 @@ class SreeragAS:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=NOVAOS&fontSize=42&fontColor=ffffff&color=0D1117&stroke=58A6FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=NOVAOS&fontSize=42&fontColor=ffffff&color=0D1117&stroke=58A6FF&strokeWidth=2" width="80%"/>
 
 ### `HANDS-FREE AI DESKTOP SYSTEM`
 
@@ -109,7 +111,7 @@ class SreeragAS:
 
 </div>
 
-**NovaOS** is a JARVIS-inspired AI desktop system designed to interact directly with the computer through natural voice commands, computer vision, biometrics and automation.
+**NovaOS** is a JARVIS-inspired AI desktop system built to interact directly with a computer through natural voice commands, computer vision, biometrics and automation.
 
 ### `SYSTEM ARCHITECTURE`
 
@@ -122,6 +124,7 @@ class SreeragAS:
                     ┌─────────────────────────┐
                     │        NOVA AI          │
                     │      Qwen2.5:1.5B       │
+                    │         Ollama          │
                     └────────────┬────────────┘
                                  │
               ┌──────────────────┼──────────────────┐
@@ -144,21 +147,13 @@ class SreeragAS:
 
 ### `CAPABILITIES`
 
-|        SYSTEM       | CAPABILITIES                             |
-| :-----------------: | ---------------------------------------- |
-|    🎙️ **VOICE**    | Wake Word · STT · TTS · Voice Commands   |
-|    👁️ **VISION**   | Face Recognition · Biometrics · Gestures |
-| 🧠 **INTELLIGENCE** | Local LLM · Intent Routing · Reasoning   |
-|  ⚙️ **AUTOMATION**  | Browser · Applications · Mouse · System  |
-|  🖥️ **INTERFACE**  | VRM Companion · Glassmorphism UI         |
-
-### `LOCAL AI ENGINE`
-
-```text
-MODEL    → Qwen2.5:1.5B
-RUNTIME  → Ollama
-MODE     → Local AI
-```
+|       SYSTEM      | CAPABILITIES                             |
+| :---------------: | ---------------------------------------- |
+|   🎙️ **VOICE**   | Wake Word · Speech Recognition · TTS     |
+|   👁️ **VISION**  | Face Recognition · Biometrics · Gestures |
+|     🧠 **AI**     | Local LLM · Intent Routing · Reasoning   |
+| ⚙️ **AUTOMATION** | Browser · Apps · Mouse · System Controls |
+|     🖥️ **UI**    | VRM Companion · Glassmorphism Interface  |
 
 <div align="center">
 
@@ -176,20 +171,21 @@ MODE     → Local AI
 
 <div align="center">
 
-|  🧠 GENERATIVE AI  | 👁️ COMPUTER VISION |
-| :----------------: | :-----------------: |
-|     LLM Systems    |        OpenCV       |
-|         RAG        |   Face Recognition  |
-| Prompt Engineering |      Biometrics     |
-|     Local LLMs     | Gesture Recognition |
-|      AI Agents     |  Vision Interaction |
+### 🧠 `GENERATIVE AI`
 
-|  🎙️ VOICE AI  |    ⚙️ AUTOMATION    |
-| :------------: | :-----------------: |
-| Speech-to-Text |  Browser Automation |
-| Text-to-Speech | Application Control |
-|   Wake Words   |   Mouse / Keyboard  |
-| Voice Commands |  System Automation  |
+`LLMs` · `RAG` · `Prompt Engineering` · `Local AI` · `AI Agents`
+
+### 👁️ `COMPUTER VISION`
+
+`OpenCV` · `Face Recognition` · `Biometrics` · `Gesture Recognition`
+
+### 🎙️ `VOICE AI`
+
+`Speech-to-Text` · `Text-to-Speech` · `Wake Words` · `Voice Commands`
+
+### ⚙️ `AUTOMATION`
+
+`Browser Automation` · `Application Control` · `Mouse / Keyboard` · `System Automation`
 
 </div>
 
@@ -216,22 +212,22 @@ MODE     → Local AI
 ### `PROMPT → RESPONSE` IS ONLY THE BEGINNING.
 
 ```text
-HUMAN
-  │
-  ▼
- AI
-  │
-  ▼
-UNDERSTANDING
-  │
-  ▼
-REASONING
-  │
-  ▼
- ACTION
-  │
-  ▼
-REAL WORLD
+                         HUMAN
+                           │
+                           ▼
+                          AI
+                           │
+                           ▼
+                     UNDERSTANDING
+                           │
+                           ▼
+                       REASONING
+                           │
+                           ▼
+                         ACTION
+                           │
+                           ▼
+                       REAL WORLD
 ```
 
 </div>
@@ -242,12 +238,12 @@ REAL WORLD
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=tokyonight&hide_border=true" width="72%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerag160&theme=tokyonight&hide_border=true" width="75%"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GITHUB-sreerag160-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-ACTIVE-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-ENGINEERING-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NOVAOS-BUILT-A855F7?style=for-the-badge"/>
 
 </div>
@@ -258,7 +254,21 @@ REAL WORLD
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreerag160&theme=tokyonight" width="96%"/>
+### `BUILDING IN PUBLIC`
+
+```text
+AI SYSTEMS
+    │
+    ├── GENERATIVE AI
+    ├── COMPUTER VISION
+    ├── VOICE INTERACTION
+    ├── AUTOMATION
+    └── INTELLIGENT DESKTOPS
+
+        ↓
+
+EXPERIMENT → ENGINEER → BUILD → SHIP
+```
 
 </div>
 
@@ -275,19 +285,19 @@ REAL WORLD
 <picture>
 
 <source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake-dark.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake-dark.svg"
 />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
 />
 
 <img
- src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
- width="100%"
- alt="Sreerag AS GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/sreerag160/sreerag160/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Sreerag AS GitHub Contribution Snake"
 />
 
 </picture>
@@ -300,7 +310,7 @@ REAL WORLD
 
 ---
 
-# `10 // SYSTEM METRICS`
+# `10 // SYSTEM STATUS`
 
 <div align="center">
 
@@ -318,6 +328,7 @@ REAL WORLD
 │  IDENTITY     : SREERAG AS                 │
 │  DOMAIN       : ARTIFICIAL INTELLIGENCE    │
 │  FLAGSHIP     : NOVAOS                     │
+│  LOCAL MODEL  : QWEN2.5:1.5B               │
 │  MODE         : BUILDING                   │
 │                                             │
 └─────────────────────────────────────────────┘
@@ -367,10 +378,6 @@ MODE         : BUILDING
 
 ---
 
-
-Your correct ending should be **exactly this**:
-
-```html
 <div align="center">
 
 ### `ARTIFICIAL INTELLIGENCE IS ENGINEERED, NOT IMAGINED.`
